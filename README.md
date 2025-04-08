@@ -2,7 +2,7 @@
 This is a web application for *Brain Tumor Classification*.
 VISIT the App [here](http://3.106.167.175/)
 
-# 🤖 This project leverages the pre-trained <u>*EfficientNet-B0*</u> model
+# 🤖 This project leverages the pre-trained *EfficientNet-B0* model
 The model was fine tuned on **brain MRI images**.
 Find the dataset [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
