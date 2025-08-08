@@ -1,9 +1,11 @@
-# 🧠 **Brain Tumor Classifier**
+# 🧠 **Brain Tumor Classifier (Overview)**
 This is a web application for *Brain Tumor Classification*.
-VISIT the App [here](http://3.106.167.175/)
+![Screenshot1](streamlit1.png)
+![Screenshot2](streamlit1.png)
 
-# 🤖 This project leverages the pre-trained *EfficientNet-B0* model
-The model was fine tuned on **brain MRI images**.
+# 🤖 The Model
+This project leverages the *pre-trained* **EfficientNet-B0** model
+The model was fine tuned on **brain MRI images** dataset.
 Find the dataset [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
 
 # 💻 Tech Stack
