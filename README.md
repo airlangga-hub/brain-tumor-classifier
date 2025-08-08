@@ -2,7 +2,7 @@
 This is a web application for *Brain Tumor Classification*.\
 I posted this on [Linkedin](https://www.linkedin.com/posts/airlangga-krishna-a305a120b_streamlit-activity-7313419344263225348-VDLN?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVNYoQBtxvMHz3-K5IxcfZJohLb2-y58ZA) as well, kindly visit it.\
 This was deployed on **AWS EC2 instance** but since my *free-tier* has exceeded its limits, I decided to put it down.\
-To deploy this project to AWS, see **Project Flow** below.\
+To deploy this project to AWS, see [Project Flow](#-project-flow) below.\
 ![Screenshot1](streamlit1.png)
 ![Screenshot2](streamlit2.png)
 
